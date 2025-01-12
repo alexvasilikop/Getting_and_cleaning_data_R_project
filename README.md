@@ -6,6 +6,7 @@ This repository contains
 - The original data used for the project
 - The script run_analysis.R
 - A Codebook describing the data, the variables and steps performed
+- The tidy dataset produced by getting and cleaning the data
 
 ## Start analysis
 To start the analysis simly run 
