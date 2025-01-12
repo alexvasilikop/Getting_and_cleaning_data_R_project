@@ -8,10 +8,10 @@ This repository contains
 - A Codebook describing the data, the variables and steps performed
 
 ## Start analysis
-To start the analysis run 
+To start the analysis simly run 
 ```
 Rscript run_analysis.R
 ```
 
-##Getting data
+## Getting data
 If the data.zip directory is not in the current repository folder the R script downloads the data and unzips them into the Data subdirectory
