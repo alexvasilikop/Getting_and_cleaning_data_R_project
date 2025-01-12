@@ -12,3 +12,6 @@ To start the analysis run
 ```
 Rscript run_analysis.R
 ```
+
+##Getting data
+If the data.zip directory is not in the current repository folder the R script downloads the data and unzips them into the Data subdirectory
